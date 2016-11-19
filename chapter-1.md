@@ -12,4 +12,6 @@ I hope this guide will give you all the information you need about how the Model
 
 _Written by /u/ThatThingInTheCorner, edited by /u/Electric-Blue_
 
+###[~~Chapter 2~~](/chaper-1.md)
+
 [Souce](https://issuu.com/thatthinginthecorner/docs/model_houses_of_parliament_guide)
