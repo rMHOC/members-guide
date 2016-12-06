@@ -6,3 +6,5 @@ This is the beginnings of a small project to create a coherent, verbose, and com
 ###[Chapter 1](/chapter-1.md)
 
 Currenly being updated by /u/Electric-Blue @electric-blue-green
+
+#Currenly working on /LaTeX branch
