@@ -1,0 +1,31 @@
+# Elections
+MHoC holds elections every six months. An election is called by the
+speakership, who liaise with the government and the parties to decide
+on the best timing. Each party is responsible for nominating candidates
+to stand in various constituencies, and in the proportional ‘list seats.’
+Our elections are an awfully confusing time for new members. This is
+mostly due to the process we use. While in the past we relied on
+members of reddit actually voting for their preferred party, we now
+‘simulate elections’ meaning that parties compete for virtual voters. The
+success of a part is affected by their ‘modifiers’ - a series of multipliers
+and values that impact the amount of people that will vote for them.
+Modifiers reward activity throughout the term, with modifiers for things
+such as legislative output, MP turnout and campaigning. Modifiers
+effectively reflect how the public see the party: a stable and active
+party will do well, while a party that is gripped by internal strife and
+inactivity will do poorly in elections.
+
+The number of seats in the House of Commons often fluctuates. In our
+first election, we only had 30 seats. However in our second election,
+only six months later, we had 75. At the third election it was 100 seats,
+and in the fourth it was 115 seats.
+
+At the moment we have 100 seats in the Commons, plus overhang.
+
+By convention, seats won in an election belong to the party that won
+them, as opposed to the member. This stops us having constant by-
+elections as members come and go from the simulation. However, there
+are exceptions to this rule, if an independent member wins their seat
+then they ‘own’ it, meaning that if they resign the seat goes to a by-
+election. They can also defect to a political party and
+strengthen that party in the Commons.
